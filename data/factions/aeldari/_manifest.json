@@ -588,14 +588,14 @@
       "role": "Characters"
     }
   ],
-  "fun_to_play": 18,
+  "fun_to_play": 55,
   "ease_of_play": 30,
-  "army_size": 70,
-  "cost_effective": 55,
+  "army_size": 64,
+  "cost_effective": 43,
   "ease_of_painting": 35,
   "games_workshop_support": 72,
   "creators_aesthetic_preference": 40,
   "color": "#0891B2",
   "icon": "https://raw.githubusercontent.com/certseeds/wh40k-icon/master/src/svgs/xenos/eldar/asuryani.svg",
-  "description": "Once rulers of a galactic empire, the Aeldari are now a splintered people with only fragments of their former power. Those called Asuryani have plied the stars for millennia in huge spacefaring craftworlds – proud nomads who fight for survival with psychic wisdom, wondrous technology, and breathtaking skill."
+  "description": "Once rulers of a galactic empire, the Aeldari are now a splintered people with only fragments of their former power. Those called Asuryani have plied the stars for millennia in huge spacefaring craftworlds, proud nomads who fight for survival with psychic wisdom, wondrous technology, and breathtaking skill."
 }

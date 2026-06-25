@@ -228,12 +228,12 @@
       "role": "Other"
     }
   ],
-  "fun_to_play": 30,
+  "fun_to_play": 55,
   "ease_of_play": 58,
   "army_size": 93,
   "cost_effective": 70,
-  "ease_of_painting": 33,
-  "games_workshop_support": 55,
+  "ease_of_painting": 58,
+  "games_workshop_support": 62,
   "creators_aesthetic_preference": 85,
   "color": "#C76B15",
   "icon": "https://raw.githubusercontent.com/certseeds/wh40k-icon/master/src/svgs/chaos/questor-traitoris.svg",

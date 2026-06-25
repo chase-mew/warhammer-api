@@ -138,12 +138,12 @@
       "role": "Battleline"
     }
   ],
-  "fun_to_play": 62,
+  "fun_to_play": 68,
   "ease_of_play": 40,
   "army_size": 70,
-  "cost_effective": 68,
+  "cost_effective": 57,
   "ease_of_painting": 38,
-  "games_workshop_support": 80,
+  "games_workshop_support": 86,
   "creators_aesthetic_preference": 40,
   "color": "#EC4899",
   "icon": "https://raw.githubusercontent.com/certseeds/wh40k-icon/master/src/svgs/chaos/legions/emperors-children-1.svg",

@@ -666,14 +666,14 @@
       "role": "Other"
     }
   ],
-  "fun_to_play": 60,
+  "fun_to_play": 66,
   "ease_of_play": 42,
   "army_size": 66,
   "cost_effective": 50,
   "ease_of_painting": 42,
-  "games_workshop_support": 65,
+  "games_workshop_support": 72,
   "creators_aesthetic_preference": 65,
   "color": "#FBBF24",
   "icon": "https://raw.githubusercontent.com/certseeds/wh40k-icon/master/src/svgs/chaos/heretic-astartes.svg",
-  "description": "The Chaos Space Marines are the Imperium's fallen heroes – superhuman warriors who sold their souls for the promise of power gifted by the Dark Gods. From the Eye of Terror, the Maelstrom, and a thousand other strongholds, they strike at the realm they once swore to defend, driven by bitter hatred and unnatural bloodlust."
+  "description": "The Chaos Space Marines are the Imperium's fallen heroes, superhuman warriors who sold their souls for the promise of power gifted by the Dark Gods. From the Eye of Terror, the Maelstrom, and a thousand other strongholds, they strike at the realm they once swore to defend, driven by bitter hatred and unnatural bloodlust."
 }
