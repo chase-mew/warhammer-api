@@ -13,7 +13,8 @@
     "creators_aesthetic_preference": 60,
     "color": "#E11D48",
     "icon": "https://raw.githubusercontent.com/certseeds/wh40k-icon/master/src/svgs/human_imperium/adepta-sororitas.svg",
-    "description": "The Adepta Sororitas are warriors of unyielding faith who purge their enemies with roaring fire and howling chainblade, displaying zealous devotion to the God-Emperor. The Battle Sisters excel in short-ranged firefights, mowing down the foe with furious volleys while their soaring hymnals echo over the screams of the dying."
+    "description": "The Adepta Sororitas are warriors of unyielding faith who purge their enemies with roaring fire and howling chainblade, displaying zealous devotion to the God-Emperor. The Battle Sisters excel in short-ranged firefights, mowing down the foe with furious volleys while their soaring hymnals echo over the screams of the dying.",
+    "community": 66
   },
   {
     "id": "AC",
@@ -29,7 +30,8 @@
     "creators_aesthetic_preference": 40,
     "color": "#EAB308",
     "icon": "https://raw.githubusercontent.com/certseeds/wh40k-icon/master/src/svgs/human_imperium/adeptus-custodes.svg",
-    "description": "The Adeptus Custodes were the first and greatest of the super-soldiers engineered by the Emperor, each a warrior of superlative might and superhuman resilience. They are nigh-immortal exemplars of legend who stop at nothing to defend the Emperor and his Throneworld."
+    "description": "The Adeptus Custodes were the first and greatest of the super-soldiers engineered by the Emperor, each a warrior of superlative might and superhuman resilience. They are nigh-immortal exemplars of legend who stop at nothing to defend the Emperor and his Throneworld.",
+    "community": 66
   },
   {
     "id": "AdM",
@@ -45,7 +47,8 @@
     "creators_aesthetic_preference": 75,
     "color": "#B91C1C",
     "icon": "https://raw.githubusercontent.com/certseeds/wh40k-icon/master/src/svgs/human_imperium/adeptus-mechanicus.svg",
-    "description": "The Adeptus Mechanicus prize knowledge above all things, and will shed oceans of blood and oil in their endless crusade to acquire lost lore and ancient relics. The Machine Cult's cyborg armies wield strange and arcane technological weapons of phenomenal power, manufactured and administered by the bizarre Tech-Priests of the Omnissiah."
+    "description": "The Adeptus Mechanicus prize knowledge above all things, and will shed oceans of blood and oil in their endless crusade to acquire lost lore and ancient relics. The Machine Cult's cyborg armies wield strange and arcane technological weapons of phenomenal power, manufactured and administered by the bizarre Tech-Priests of the Omnissiah.",
+    "community": 67
   },
   {
     "id": "TL",
@@ -61,7 +64,8 @@
     "creators_aesthetic_preference": 80,
     "color": "#B8956A",
     "icon": "https://raw.githubusercontent.com/certseeds/wh40k-icon/master/src/svgs/human_imperium/mechanicum/collegia-titanica.svg",
-    "description": "The Adeptus Titanicus fields the god-machines of the Collegia Titanica, colossal bipedal war engines whose weapon batteries can obliterate entire formations in a single salvo. These towering Titans are among the most devastating weapons in the Imperium's arsenal, miracles of forgotten technology that stride across the battlefield like wrathful gods of war."
+    "description": "The Adeptus Titanicus fields the god-machines of the Collegia Titanica, colossal bipedal war engines whose weapon batteries can obliterate entire formations in a single salvo. These towering Titans are among the most devastating weapons in the Imperium's arsenal, miracles of forgotten technology that stride across the battlefield like wrathful gods of war.",
+    "community": 11
   },
   {
     "id": "AE",
@@ -77,7 +81,8 @@
     "creators_aesthetic_preference": 40,
     "color": "#0891B2",
     "icon": "https://raw.githubusercontent.com/certseeds/wh40k-icon/master/src/svgs/xenos/eldar/asuryani.svg",
-    "description": "Once rulers of a galactic empire, the Aeldari are now a splintered people with only fragments of their former power. Those called Asuryani have plied the stars for millennia in huge spacefaring craftworlds, proud nomads who fight for survival with psychic wisdom, wondrous technology, and breathtaking skill."
+    "description": "Once rulers of a galactic empire, the Aeldari are now a splintered people with only fragments of their former power. Those called Asuryani have plied the stars for millennia in huge spacefaring craftworlds, proud nomads who fight for survival with psychic wisdom, wondrous technology, and breathtaking skill.",
+    "community": 61
   },
   {
     "id": "AM",
@@ -93,7 +98,8 @@
     "creators_aesthetic_preference": 0,
     "color": "#C2B280",
     "icon": "https://raw.githubusercontent.com/certseeds/wh40k-icon/master/src/svgs/human_imperium/astra-militarum.svg",
-    "description": "The Astra Militarum are a blunt instrument of violence wrought on a galactic scale. Massed infantry and rumbling tanks serve as both a living shield for the Emperor's realm and an unstoppable sledgehammer with which to crush its foes, sacrificing countless lives before surrendering even a single world."
+    "description": "The Astra Militarum are a blunt instrument of violence wrought on a galactic scale. Massed infantry and rumbling tanks serve as both a living shield for the Emperor's realm and an unstoppable sledgehammer with which to crush its foes, sacrificing countless lives before surrendering even a single world.",
+    "community": 81
   },
   {
     "id": "CD",
@@ -109,7 +115,8 @@
     "creators_aesthetic_preference": 80,
     "color": "#F97316",
     "icon": "https://raw.githubusercontent.com/certseeds/wh40k-icon/master/src/svgs/chaos/chaos-daemons.svg",
-    "description": "No foe of the Imperium is more malignant, nor more terrible, than the daemons of Chaos, the numberless foot soldiers of the Ruinous Powers. Spawned in the depths of the warp, these otherworldly legions take forms drawn from the darkest nightmares of mortal minds, and will stop at nothing to see reality itself torn apart."
+    "description": "No foe of the Imperium is more malignant, nor more terrible, than the daemons of Chaos, the numberless foot soldiers of the Ruinous Powers. Spawned in the depths of the warp, these otherworldly legions take forms drawn from the darkest nightmares of mortal minds, and will stop at nothing to see reality itself torn apart.",
+    "community": 26
   },
   {
     "id": "QT",
@@ -125,7 +132,8 @@
     "creators_aesthetic_preference": 85,
     "color": "#C76B15",
     "icon": "https://raw.githubusercontent.com/certseeds/wh40k-icon/master/src/svgs/chaos/questor-traitoris.svg",
-    "description": "Piloted by fallen nobles, Chaos Knights are colossal war engines corrupted by the Dark Gods that revel in barbaric destruction. These towering terrors spread dread and despair wherever they stride, their once-noble heraldry twisted into nightmarish icons that shatter the morale of all who behold them."
+    "description": "Piloted by fallen nobles, Chaos Knights are colossal war engines corrupted by the Dark Gods that revel in barbaric destruction. These towering terrors spread dread and despair wherever they stride, their once-noble heraldry twisted into nightmarish icons that shatter the morale of all who behold them.",
+    "community": 41
   },
   {
     "id": "CSM",
@@ -141,7 +149,8 @@
     "creators_aesthetic_preference": 65,
     "color": "#FBBF24",
     "icon": "https://raw.githubusercontent.com/certseeds/wh40k-icon/master/src/svgs/chaos/heretic-astartes.svg",
-    "description": "The Chaos Space Marines are the Imperium's fallen heroes, superhuman warriors who sold their souls for the promise of power gifted by the Dark Gods. From the Eye of Terror, the Maelstrom, and a thousand other strongholds, they strike at the realm they once swore to defend, driven by bitter hatred and unnatural bloodlust."
+    "description": "The Chaos Space Marines are the Imperium's fallen heroes, superhuman warriors who sold their souls for the promise of power gifted by the Dark Gods. From the Eye of Terror, the Maelstrom, and a thousand other strongholds, they strike at the realm they once swore to defend, driven by bitter hatred and unnatural bloodlust.",
+    "community": 77
   },
   {
     "id": "DG",
@@ -157,7 +166,8 @@
     "creators_aesthetic_preference": 25,
     "color": "#8B9A2B",
     "icon": "https://raw.githubusercontent.com/certseeds/wh40k-icon/master/src/svgs/chaos/legions/death-guard.svg",
-    "description": "The Death Guard are the Traitor Legion most favoured by Nurgle, the Chaos God of disease and despair. Devoted to spreading the Plaguefather's hideous infections across the worlds of the Imperium, these morbid Space Marines are living plague vectors gifted with grotesque resilience."
+    "description": "The Death Guard are the Traitor Legion most favoured by Nurgle, the Chaos God of disease and despair. Devoted to spreading the Plaguefather's hideous infections across the worlds of the Imperium, these morbid Space Marines are living plague vectors gifted with grotesque resilience.",
+    "community": 75
   },
   {
     "id": "DRU",
@@ -173,7 +183,8 @@
     "creators_aesthetic_preference": 70,
     "color": "#059669",
     "icon": "https://raw.githubusercontent.com/certseeds/wh40k-icon/master/src/svgs/xenos/durhkari/drukhari-2.svg",
-    "description": "The Drukhari are a sadistic reaver-civilisation of murderous Aeldari who feed off the anguish and suffering of their victims. Ever-hungry for slaves and entertainment, they launch lightning raids on unsuspecting enemies before vanishing back to Commorragh, the twisted nether-city that lurks in the webway's darkest corners."
+    "description": "The Drukhari are a sadistic reaver-civilisation of murderous Aeldari who feed off the anguish and suffering of their victims. Ever-hungry for slaves and entertainment, they launch lightning raids on unsuspecting enemies before vanishing back to Commorragh, the twisted nether-city that lurks in the webway's darkest corners.",
+    "community": 37
   },
   {
     "id": "EC",
@@ -189,7 +200,8 @@
     "creators_aesthetic_preference": 40,
     "color": "#EC4899",
     "icon": "https://raw.githubusercontent.com/certseeds/wh40k-icon/master/src/svgs/chaos/legions/emperors-children-1.svg",
-    "description": "The Emperor's Children are prideful traitors devoted to Slaanesh, the Chaos God of excess and obsession. Led by their Daemon Primarch Fulgrim, this Traitor Legion pursues ever more depraved sensations on the battlefield, weaving an exquisitely lurid tapestry of violence in their quest for twisted perfection."
+    "description": "The Emperor's Children are prideful traitors devoted to Slaanesh, the Chaos God of excess and obsession. Led by their Daemon Primarch Fulgrim, this Traitor Legion pursues ever more depraved sensations on the battlefield, weaving an exquisitely lurid tapestry of violence in their quest for twisted perfection.",
+    "community": 50
   },
   {
     "id": "GC",
@@ -205,7 +217,8 @@
     "creators_aesthetic_preference": 25,
     "color": "#BE185D",
     "icon": "https://raw.githubusercontent.com/certseeds/wh40k-icon/master/src/svgs/xenos/genestealer_cult/genestealer-cults.svg",
-    "description": "The Genestealer Cults gather far from the prying eyes of the Imperium's harsh authorities, secret worshippers mutated by Tyranid infection. Armed with sabotage, cunning, and the zealotry of true believers, these fanatics undermine entire worlds to pave the way for their mysterious alien deities."
+    "description": "The Genestealer Cults gather far from the prying eyes of the Imperium's harsh authorities, secret worshippers mutated by Tyranid infection. Armed with sabotage, cunning, and the zealotry of true believers, these fanatics undermine entire worlds to pave the way for their mysterious alien deities.",
+    "community": 41
   },
   {
     "id": "GK",
@@ -221,7 +234,8 @@
     "creators_aesthetic_preference": 70,
     "color": "#7B8DAA",
     "icon": "https://raw.githubusercontent.com/certseeds/wh40k-icon/master/src/svgs/human_imperium/astartes_chapters/grey-knights.svg",
-    "description": "Wherever daemons break through the veil of reality, wherever the powers of the warp manifest in the form of malefic entities or abhorrent possessions, the Grey Knights strike. These silver-clad psychic Space Marines from the moon of Titan are selfless secret warriors who risk all to hold back the threat of Humanity's eternal damnation."
+    "description": "Wherever daemons break through the veil of reality, wherever the powers of the warp manifest in the form of malefic entities or abhorrent possessions, the Grey Knights strike. These silver-clad psychic Space Marines from the moon of Titan are selfless secret warriors who risk all to hold back the threat of Humanity's eternal damnation.",
+    "community": 47
   },
   {
     "id": "AoI",
@@ -237,7 +251,8 @@
     "creators_aesthetic_preference": 10,
     "color": "#A855F7",
     "icon": "https://raw.githubusercontent.com/certseeds/wh40k-icon/master/src/svgs/human_imperium/inquisition-01.svg",
-    "description": "The Imperial Agents are the Imperium's hidden hand, a shadowy network of Inquisitors, Assassins, and specialist operatives dispatched to address threats beyond the reach of conventional armies. Armed with absolute authority and esoteric resources, they infiltrate, interrogate, and eliminate wherever heresy, daemonic corruption, or xenos influence takes root."
+    "description": "The Imperial Agents are the Imperium's hidden hand, a shadowy network of Inquisitors, Assassins, and specialist operatives dispatched to address threats beyond the reach of conventional armies. Armed with absolute authority and esoteric resources, they infiltrate, interrogate, and eliminate wherever heresy, daemonic corruption, or xenos influence takes root.",
+    "community": 17
   },
   {
     "id": "QI",
@@ -253,7 +268,8 @@
     "creators_aesthetic_preference": 90,
     "color": "#6366F1",
     "icon": "https://raw.githubusercontent.com/certseeds/wh40k-icon/master/src/svgs/human_imperium/imperial-knights.svg",
-    "description": "Imperial Knights are towering war machines piloted by noble warriors bound by ancient codes of honour and chivalry. Striding across the battlefield like mighty colossi, their devastating weaponry and nigh-impenetrable ion shields make them the pride of the Imperium's mightiest households."
+    "description": "Imperial Knights are towering war machines piloted by noble warriors bound by ancient codes of honour and chivalry. Striding across the battlefield like mighty colossi, their devastating weaponry and nigh-impenetrable ion shields make them the pride of the Imperium's mightiest households.",
+    "community": 51
   },
   {
     "id": "LoV",
@@ -269,7 +285,8 @@
     "creators_aesthetic_preference": 20,
     "color": "#0EA5E9",
     "icon": "https://raw.githubusercontent.com/certseeds/wh40k-icon/master/src/svgs/xenos/leagues-of-votann.svg",
-    "description": "The Leagues of Votann are expert miners, pragmatic traders, and resilient warriors, wielding advanced technologies long lost to the Imperium. The clone-grown Kin who populate the Leagues are tough in body and mind, their armies striking out from the galactic core to claim resources and settle debts by any means necessary."
+    "description": "The Leagues of Votann are expert miners, pragmatic traders, and resilient warriors, wielding advanced technologies long lost to the Imperium. The clone-grown Kin who populate the Leagues are tough in body and mind, their armies striking out from the galactic core to claim resources and settle debts by any means necessary.",
+    "community": 40
   },
   {
     "id": "NEC",
@@ -285,7 +302,8 @@
     "creators_aesthetic_preference": 90,
     "color": "#84CC16",
     "icon": "https://raw.githubusercontent.com/certseeds/wh40k-icon/master/src/svgs/xenos/necrons/necrons.svg",
-    "description": "After aeons of hibernation, the deathless android legions of the Necrons rise across the galaxy. Armies of living metal march from crumbling stasis-tombs, armed with arcane technology and nigh-impervious to damage, ruled by maniacal Overlords intent on restoring their ancient empire."
+    "description": "After aeons of hibernation, the deathless android legions of the Necrons rise across the galaxy. Armies of living metal march from crumbling stasis-tombs, armed with arcane technology and nigh-impervious to damage, ruled by maniacal Overlords intent on restoring their ancient empire.",
+    "community": 79
   },
   {
     "id": "ORK",
@@ -301,7 +319,8 @@
     "creators_aesthetic_preference": 70,
     "color": "#22C55E",
     "icon": "https://raw.githubusercontent.com/certseeds/wh40k-icon/master/src/svgs/xenos/orks/orks.svg",
-    "description": "Tough, brutal, and impossibly numerous, the Orks are one of the most dangerous species in the galaxy. Their marauding warbands and colossal hordes have threatened Humanity since before the dawn of the Imperium, for Orks thrive on battle and mayhem, roaming the stars in search of a good fight."
+    "description": "Tough, brutal, and impossibly numerous, the Orks are one of the most dangerous species in the galaxy. Their marauding warbands and colossal hordes have threatened Humanity since before the dawn of the Imperium, for Orks thrive on battle and mayhem, roaming the stars in search of a good fight.",
+    "community": 83
   },
   {
     "id": "SM",
@@ -317,7 +336,8 @@
     "creators_aesthetic_preference": 30,
     "color": "#3B82F6",
     "icon": "https://raw.githubusercontent.com/certseeds/wh40k-icon/master/src/svgs/human_imperium/adeptus-astartes.svg",
-    "description": "There is no combat theatre in which the Space Marines cannot excel, no foe they cannot overcome, and no danger they fear to face. They are the elite shock troops of the Imperium, whose lightning-fast campaigns are conducted with such spectacular brutality that they have come to be known as the Angels of Death."
+    "description": "There is no combat theatre in which the Space Marines cannot excel, no foe they cannot overcome, and no danger they fear to face. They are the elite shock troops of the Imperium, whose lightning-fast campaigns are conducted with such spectacular brutality that they have come to be known as the Angels of Death.",
+    "community": 98
   },
   {
     "id": "TAU",
@@ -333,7 +353,8 @@
     "creators_aesthetic_preference": 100,
     "color": "#D97706",
     "icon": "https://raw.githubusercontent.com/certseeds/wh40k-icon/master/src/svgs/xenos/tau_empire/tau-sept.svg",
-    "description": "Dynamic and supremely confident, the T'au have established a powerful empire of countless species working toward the philosophy of the Greater Good. This once-small civilisation spreads like wildfire across the stars, its diplomatic efforts backed by armies of advanced battlesuits and alien auxiliaries."
+    "description": "Dynamic and supremely confident, the T'au have established a powerful empire of countless species working toward the philosophy of the Greater Good. This once-small civilisation spreads like wildfire across the stars, its diplomatic efforts backed by armies of advanced battlesuits and alien auxiliaries.",
+    "community": 76
   },
   {
     "id": "TS",
@@ -349,7 +370,8 @@
     "creators_aesthetic_preference": 65,
     "color": "#2563EB",
     "icon": "https://raw.githubusercontent.com/certseeds/wh40k-icon/master/src/svgs/chaos/legions/thousand-sons.svg",
-    "description": "The Thousand Sons are a Traitor Legion of mad sorcerers sworn to the service of Tzeentch, the Chaos God of magic and change. These eldritch Space Marines rule over retinues of twisted mutants and arcane automata, launching labyrinthine plots to bring about the Imperium's destruction."
+    "description": "The Thousand Sons are a Traitor Legion of mad sorcerers sworn to the service of Tzeentch, the Chaos God of magic and change. These eldritch Space Marines rule over retinues of twisted mutants and arcane automata, launching labyrinthine plots to bring about the Imperium's destruction.",
+    "community": 58
   },
   {
     "id": "TYR",
@@ -365,7 +387,8 @@
     "creators_aesthetic_preference": 85,
     "color": "#7C3AED",
     "icon": "https://raw.githubusercontent.com/certseeds/wh40k-icon/master/src/svgs/xenos/tyranids.svg",
-    "description": "The Tyranids have invaded the galaxy from beyond the intergalactic void, their hive fleets slithering like tendrils into every sector and system. Driven by the imperatives of the almighty Hive Mind, their swarms sweep over world after world in a living tide of biological killing-machines, devouring every last shred of biomass in their path."
+    "description": "The Tyranids have invaded the galaxy from beyond the intergalactic void, their hive fleets slithering like tendrils into every sector and system. Driven by the imperatives of the almighty Hive Mind, their swarms sweep over world after world in a living tide of biological killing-machines, devouring every last shred of biomass in their path.",
+    "community": 86
   },
   {
     "id": "UN",
@@ -381,7 +404,8 @@
     "creators_aesthetic_preference": 80,
     "color": "#9CA3AF",
     "icon": "https://raw.githubusercontent.com/certseeds/wh40k-icon/master/src/svgs/human_imperium/imperial-aquila.svg",
-    "description": "Not all forces in the galaxy owe allegiance to a single faction. Unaligned Forces represent the mercenaries, renegades, and independent agents that operate across the battlefields of the 41st Millennium, fighting for their own inscrutable purposes."
+    "description": "Not all forces in the galaxy owe allegiance to a single faction. Unaligned Forces represent the mercenaries, renegades, and independent agents that operate across the battlefields of the 41st Millennium, fighting for their own inscrutable purposes.",
+    "community": 6
   },
   {
     "id": "WE",
@@ -397,6 +421,7 @@
     "creators_aesthetic_preference": 70,
     "color": "#DC2626",
     "icon": "https://raw.githubusercontent.com/certseeds/wh40k-icon/master/src/svgs/chaos/legions/world-eaters-1.svg",
-    "description": "The World Eaters lay into their enemies with gore-encrusted chainblades, screaming praise to Khorne, the Chaos God of blood and hate. This Traitor Legion of berserk Space Marines cares for nothing but slaughter, claiming skulls from the Imperium's mightiest champions."
+    "description": "The World Eaters lay into their enemies with gore-encrusted chainblades, screaming praise to Khorne, the Chaos God of blood and hate. This Traitor Legion of berserk Space Marines cares for nothing but slaughter, claiming skulls from the Imperium's mightiest champions.",
+    "community": 50
   }
 ]

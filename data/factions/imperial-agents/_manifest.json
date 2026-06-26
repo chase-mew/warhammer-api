@@ -285,5 +285,6 @@
   "creators_aesthetic_preference": 10,
   "color": "#A855F7",
   "icon": "https://raw.githubusercontent.com/certseeds/wh40k-icon/master/src/svgs/human_imperium/inquisition-01.svg",
-  "description": "The Imperial Agents are the Imperium's hidden hand, a shadowy network of Inquisitors, Assassins, and specialist operatives dispatched to address threats beyond the reach of conventional armies. Armed with absolute authority and esoteric resources, they infiltrate, interrogate, and eliminate wherever heresy, daemonic corruption, or xenos influence takes root."
+  "description": "The Imperial Agents are the Imperium's hidden hand, a shadowy network of Inquisitors, Assassins, and specialist operatives dispatched to address threats beyond the reach of conventional armies. Armed with absolute authority and esoteric resources, they infiltrate, interrogate, and eliminate wherever heresy, daemonic corruption, or xenos influence takes root.",
+  "community": 17
 }

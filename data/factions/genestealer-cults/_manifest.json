@@ -831,5 +831,6 @@
   "creators_aesthetic_preference": 25,
   "color": "#BE185D",
   "icon": "https://raw.githubusercontent.com/certseeds/wh40k-icon/master/src/svgs/xenos/genestealer_cult/genestealer-cults.svg",
-  "description": "The Genestealer Cults gather far from the prying eyes of the Imperium's harsh authorities, secret worshippers mutated by Tyranid infection. Armed with sabotage, cunning, and the zealotry of true believers, these fanatics undermine entire worlds to pave the way for their mysterious alien deities."
+  "description": "The Genestealer Cults gather far from the prying eyes of the Imperium's harsh authorities, secret worshippers mutated by Tyranid infection. Armed with sabotage, cunning, and the zealotry of true believers, these fanatics undermine entire worlds to pave the way for their mysterious alien deities.",
+  "community": 41
 }

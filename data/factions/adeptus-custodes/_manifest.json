@@ -201,5 +201,6 @@
   "creators_aesthetic_preference": 40,
   "color": "#EAB308",
   "icon": "https://raw.githubusercontent.com/certseeds/wh40k-icon/master/src/svgs/human_imperium/adeptus-custodes.svg",
-  "description": "The Adeptus Custodes were the first and greatest of the super-soldiers engineered by the Emperor, each a warrior of superlative might and superhuman resilience. They are nigh-immortal exemplars of legend who stop at nothing to defend the Emperor and his Throneworld."
+  "description": "The Adeptus Custodes were the first and greatest of the super-soldiers engineered by the Emperor, each a warrior of superlative might and superhuman resilience. They are nigh-immortal exemplars of legend who stop at nothing to defend the Emperor and his Throneworld.",
+  "community": 66
 }

@@ -135,5 +135,6 @@
   "creators_aesthetic_preference": 80,
   "color": "#9CA3AF",
   "icon": "https://raw.githubusercontent.com/certseeds/wh40k-icon/master/src/svgs/human_imperium/imperial-aquila.svg",
-  "description": "Not all forces in the galaxy owe allegiance to a single faction. Unaligned Forces represent the mercenaries, renegades, and independent agents that operate across the battlefields of the 41st Millennium, fighting for their own inscrutable purposes."
+  "description": "Not all forces in the galaxy owe allegiance to a single faction. Unaligned Forces represent the mercenaries, renegades, and independent agents that operate across the battlefields of the 41st Millennium, fighting for their own inscrutable purposes.",
+  "community": 6
 }

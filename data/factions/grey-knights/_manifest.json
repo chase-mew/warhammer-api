@@ -201,5 +201,6 @@
   "creators_aesthetic_preference": 70,
   "color": "#7B8DAA",
   "icon": "https://raw.githubusercontent.com/certseeds/wh40k-icon/master/src/svgs/human_imperium/astartes_chapters/grey-knights.svg",
-  "description": "Wherever daemons break through the veil of reality, wherever the powers of the warp manifest in the form of malefic entities or abhorrent possessions, the Grey Knights strike. These silver-clad psychic Space Marines from the moon of Titan are selfless secret warriors who risk all to hold back the threat of Humanity's eternal damnation."
+  "description": "Wherever daemons break through the veil of reality, wherever the powers of the warp manifest in the form of malefic entities or abhorrent possessions, the Grey Knights strike. These silver-clad psychic Space Marines from the moon of Titan are selfless secret warriors who risk all to hold back the threat of Humanity's eternal damnation.",
+  "community": 47
 }

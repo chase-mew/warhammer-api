@@ -363,5 +363,6 @@
   "creators_aesthetic_preference": 70,
   "color": "#DC2626",
   "icon": "https://raw.githubusercontent.com/certseeds/wh40k-icon/master/src/svgs/chaos/legions/world-eaters-1.svg",
-  "description": "The World Eaters lay into their enemies with gore-encrusted chainblades, screaming praise to Khorne, the Chaos God of blood and hate. This Traitor Legion of berserk Space Marines cares for nothing but slaughter, claiming skulls from the Imperium's mightiest champions."
+  "description": "The World Eaters lay into their enemies with gore-encrusted chainblades, screaming praise to Khorne, the Chaos God of blood and hate. This Traitor Legion of berserk Space Marines cares for nothing but slaughter, claiming skulls from the Imperium's mightiest champions.",
+  "community": 50
 }
