@@ -178,5 +178,6 @@
   "color": "#6366F1",
   "icon": "https://raw.githubusercontent.com/certseeds/wh40k-icon/master/src/svgs/human_imperium/imperial-knights.svg",
   "description": "Imperial Knights are towering war machines piloted by noble warriors bound by ancient codes of honour and chivalry. Striding across the battlefield like mighty colossi, their devastating weaponry and nigh-impenetrable ion shields make them the pride of the Imperium's mightiest households.",
-  "community": 51
+  "community": 51,
+  "model_variety": 15
 }

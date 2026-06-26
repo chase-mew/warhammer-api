@@ -10,6 +10,7 @@ interface FactionScores {
   ease_of_painting: number;
   games_workshop_support: number;
   community: number;
+  model_variety: number;
   creators_aesthetic_preference: number;
   color: string;
   icon: string;

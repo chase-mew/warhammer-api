@@ -238,5 +238,6 @@
   "color": "#E11D48",
   "icon": "https://raw.githubusercontent.com/certseeds/wh40k-icon/master/src/svgs/human_imperium/adepta-sororitas.svg",
   "description": "The Adepta Sororitas are warriors of unyielding faith who purge their enemies with roaring fire and howling chainblade, displaying zealous devotion to the God-Emperor. The Battle Sisters excel in short-ranged firefights, mowing down the foe with furious volleys while their soaring hymnals echo over the screams of the dying.",
-  "community": 66
+  "community": 66,
+  "model_variety": 58
 }

@@ -238,5 +238,6 @@
   "color": "#C76B15",
   "icon": "https://raw.githubusercontent.com/certseeds/wh40k-icon/master/src/svgs/chaos/questor-traitoris.svg",
   "description": "Piloted by fallen nobles, Chaos Knights are colossal war engines corrupted by the Dark Gods that revel in barbaric destruction. These towering terrors spread dread and despair wherever they stride, their once-noble heraldry twisted into nightmarish icons that shatter the morale of all who behold them.",
-  "community": 41
+  "community": 41,
+  "model_variety": 18
 }

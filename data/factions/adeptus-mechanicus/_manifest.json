@@ -232,5 +232,6 @@
   "color": "#B91C1C",
   "icon": "https://raw.githubusercontent.com/certseeds/wh40k-icon/master/src/svgs/human_imperium/adeptus-mechanicus.svg",
   "description": "The Adeptus Mechanicus prize knowledge above all things, and will shed oceans of blood and oil in their endless crusade to acquire lost lore and ancient relics. The Machine Cult's cyborg armies wield strange and arcane technological weapons of phenomenal power, manufactured and administered by the bizarre Tech-Priests of the Omnissiah.",
-  "community": 67
+  "community": 67,
+  "model_variety": 70
 }

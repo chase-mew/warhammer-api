@@ -148,5 +148,6 @@
   "color": "#EC4899",
   "icon": "https://raw.githubusercontent.com/certseeds/wh40k-icon/master/src/svgs/chaos/legions/emperors-children-1.svg",
   "description": "The Emperor's Children are prideful traitors devoted to Slaanesh, the Chaos God of excess and obsession. Led by their Daemon Primarch Fulgrim, this Traitor Legion pursues ever more depraved sensations on the battlefield, weaving an exquisitely lurid tapestry of violence in their quest for twisted perfection.",
-  "community": 50
+  "community": 50,
+  "model_variety": 44
 }

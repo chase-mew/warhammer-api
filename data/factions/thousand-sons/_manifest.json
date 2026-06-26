@@ -376,5 +376,6 @@
   "color": "#2563EB",
   "icon": "https://raw.githubusercontent.com/certseeds/wh40k-icon/master/src/svgs/chaos/legions/thousand-sons.svg",
   "description": "The Thousand Sons are a Traitor Legion of mad sorcerers sworn to the service of Tzeentch, the Chaos God of magic and change. These eldritch Space Marines rule over retinues of twisted mutants and arcane automata, launching labyrinthine plots to bring about the Imperium's destruction.",
-  "community": 58
+  "community": 58,
+  "model_variety": 44
 }

@@ -298,5 +298,6 @@
   "color": "#059669",
   "icon": "https://raw.githubusercontent.com/certseeds/wh40k-icon/master/src/svgs/xenos/durhkari/drukhari-2.svg",
   "description": "The Drukhari are a sadistic reaver-civilisation of murderous Aeldari who feed off the anguish and suffering of their victims. Ever-hungry for slaves and entertainment, they launch lightning raids on unsuspecting enemies before vanishing back to Commorragh, the twisted nether-city that lurks in the webway's darkest corners.",
-  "community": 37
+  "community": 37,
+  "model_variety": 79
 }

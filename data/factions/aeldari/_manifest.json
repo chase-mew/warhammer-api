@@ -598,5 +598,6 @@
   "color": "#0891B2",
   "icon": "https://raw.githubusercontent.com/certseeds/wh40k-icon/master/src/svgs/xenos/eldar/asuryani.svg",
   "description": "Once rulers of a galactic empire, the Aeldari are now a splintered people with only fragments of their former power. Those called Asuryani have plied the stars for millennia in huge spacefaring craftworlds, proud nomads who fight for survival with psychic wisdom, wondrous technology, and breathtaking skill.",
-  "community": 61
+  "community": 61,
+  "model_variety": 80
 }
