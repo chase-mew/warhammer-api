@@ -3,7 +3,7 @@ const DEFAULT_BASE_URL =
 
 const CACHE_TTL = 86400;
 
-export const CACHE_VERSION = 9;
+export const CACHE_VERSION = 10;
 
 let baseUrl: string | null = null;
 
