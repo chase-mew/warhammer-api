@@ -15,7 +15,7 @@
     "icon": "https://raw.githubusercontent.com/certseeds/wh40k-icon/master/src/svgs/human_imperium/adepta-sororitas.svg",
     "description": "The Adepta Sororitas are warriors of unyielding faith who purge their enemies with roaring fire and howling chainblade, displaying zealous devotion to the God-Emperor. The Battle Sisters excel in short-ranged firefights, mowing down the foe with furious volleys while their soaring hymnals echo over the screams of the dying.",
     "community": 66,
-    "model_variety": 58
+    "model_variety": 45
   },
   {
     "id": "AC",
@@ -51,7 +51,7 @@
     "icon": "https://raw.githubusercontent.com/certseeds/wh40k-icon/master/src/svgs/human_imperium/adeptus-mechanicus.svg",
     "description": "The Adeptus Mechanicus prize knowledge above all things, and will shed oceans of blood and oil in their endless crusade to acquire lost lore and ancient relics. The Machine Cult's cyborg armies wield strange and arcane technological weapons of phenomenal power, manufactured and administered by the bizarre Tech-Priests of the Omnissiah.",
     "community": 67,
-    "model_variety": 70
+    "model_variety": 48
   },
   {
     "id": "TL",
@@ -87,7 +87,7 @@
     "icon": "https://raw.githubusercontent.com/certseeds/wh40k-icon/master/src/svgs/xenos/eldar/asuryani.svg",
     "description": "Once rulers of a galactic empire, the Aeldari are now a splintered people with only fragments of their former power. Those called Asuryani have plied the stars for millennia in huge spacefaring craftworlds, proud nomads who fight for survival with psychic wisdom, wondrous technology, and breathtaking skill.",
     "community": 61,
-    "model_variety": 80
+    "model_variety": 59
   },
   {
     "id": "AM",
@@ -105,7 +105,7 @@
     "icon": "https://raw.githubusercontent.com/certseeds/wh40k-icon/master/src/svgs/human_imperium/astra-militarum.svg",
     "description": "The Astra Militarum are a blunt instrument of violence wrought on a galactic scale. Massed infantry and rumbling tanks serve as both a living shield for the Emperor's realm and an unstoppable sledgehammer with which to crush its foes, sacrificing countless lives before surrendering even a single world.",
     "community": 81,
-    "model_variety": 72
+    "model_variety": 48
   },
   {
     "id": "CD",
@@ -123,7 +123,7 @@
     "icon": "https://raw.githubusercontent.com/certseeds/wh40k-icon/master/src/svgs/chaos/chaos-daemons.svg",
     "description": "No foe of the Imperium is more malignant, nor more terrible, than the daemons of Chaos, the numberless foot soldiers of the Ruinous Powers. Spawned in the depths of the warp, these otherworldly legions take forms drawn from the darkest nightmares of mortal minds, and will stop at nothing to see reality itself torn apart.",
     "community": 26,
-    "model_variety": 93
+    "model_variety": 96
   },
   {
     "id": "QT",
@@ -159,7 +159,7 @@
     "icon": "https://raw.githubusercontent.com/certseeds/wh40k-icon/master/src/svgs/chaos/heretic-astartes.svg",
     "description": "The Chaos Space Marines are the Imperium's fallen heroes, superhuman warriors who sold their souls for the promise of power gifted by the Dark Gods. From the Eye of Terror, the Maelstrom, and a thousand other strongholds, they strike at the realm they once swore to defend, driven by bitter hatred and unnatural bloodlust.",
     "community": 77,
-    "model_variety": 62
+    "model_variety": 51
   },
   {
     "id": "DG",
@@ -177,7 +177,7 @@
     "icon": "https://raw.githubusercontent.com/certseeds/wh40k-icon/master/src/svgs/chaos/legions/death-guard.svg",
     "description": "The Death Guard are the Traitor Legion most favoured by Nurgle, the Chaos God of disease and despair. Devoted to spreading the Plaguefather's hideous infections across the worlds of the Imperium, these morbid Space Marines are living plague vectors gifted with grotesque resilience.",
     "community": 75,
-    "model_variety": 50
+    "model_variety": 45
   },
   {
     "id": "DRU",
@@ -195,7 +195,7 @@
     "icon": "https://raw.githubusercontent.com/certseeds/wh40k-icon/master/src/svgs/xenos/durhkari/drukhari-2.svg",
     "description": "The Drukhari are a sadistic reaver-civilisation of murderous Aeldari who feed off the anguish and suffering of their victims. Ever-hungry for slaves and entertainment, they launch lightning raids on unsuspecting enemies before vanishing back to Commorragh, the twisted nether-city that lurks in the webway's darkest corners.",
     "community": 37,
-    "model_variety": 79
+    "model_variety": 54
   },
   {
     "id": "EC",
@@ -231,7 +231,7 @@
     "icon": "https://raw.githubusercontent.com/certseeds/wh40k-icon/master/src/svgs/xenos/genestealer_cult/genestealer-cults.svg",
     "description": "The Genestealer Cults gather far from the prying eyes of the Imperium's harsh authorities, secret worshippers mutated by Tyranid infection. Armed with sabotage, cunning, and the zealotry of true believers, these fanatics undermine entire worlds to pave the way for their mysterious alien deities.",
     "community": 41,
-    "model_variety": 78
+    "model_variety": 57
   },
   {
     "id": "GK",
@@ -267,7 +267,7 @@
     "icon": "https://raw.githubusercontent.com/certseeds/wh40k-icon/master/src/svgs/human_imperium/inquisition-01.svg",
     "description": "The Imperial Agents are the Imperium's hidden hand, a shadowy network of Inquisitors, Assassins, and specialist operatives dispatched to address threats beyond the reach of conventional armies. Armed with absolute authority and esoteric resources, they infiltrate, interrogate, and eliminate wherever heresy, daemonic corruption, or xenos influence takes root.",
     "community": 17,
-    "model_variety": 74
+    "model_variety": 68
   },
   {
     "id": "QI",
@@ -303,7 +303,7 @@
     "icon": "https://raw.githubusercontent.com/certseeds/wh40k-icon/master/src/svgs/xenos/leagues-of-votann.svg",
     "description": "The Leagues of Votann are expert miners, pragmatic traders, and resilient warriors, wielding advanced technologies long lost to the Imperium. The clone-grown Kin who populate the Leagues are tough in body and mind, their armies striking out from the galactic core to claim resources and settle debts by any means necessary.",
     "community": 40,
-    "model_variety": 45
+    "model_variety": 40
   },
   {
     "id": "NEC",
@@ -321,7 +321,7 @@
     "icon": "https://raw.githubusercontent.com/certseeds/wh40k-icon/master/src/svgs/xenos/necrons/necrons.svg",
     "description": "After aeons of hibernation, the deathless android legions of the Necrons rise across the galaxy. Armies of living metal march from crumbling stasis-tombs, armed with arcane technology and nigh-impervious to damage, ruled by maniacal Overlords intent on restoring their ancient empire.",
     "community": 79,
-    "model_variety": 55
+    "model_variety": 35
   },
   {
     "id": "ORK",
@@ -339,7 +339,7 @@
     "icon": "https://raw.githubusercontent.com/certseeds/wh40k-icon/master/src/svgs/xenos/orks/orks.svg",
     "description": "Tough, brutal, and impossibly numerous, the Orks are one of the most dangerous species in the galaxy. Their marauding warbands and colossal hordes have threatened Humanity since before the dawn of the Imperium, for Orks thrive on battle and mayhem, roaming the stars in search of a good fight.",
     "community": 83,
-    "model_variety": 84
+    "model_variety": 45
   },
   {
     "id": "SM",
@@ -357,7 +357,7 @@
     "icon": "https://raw.githubusercontent.com/certseeds/wh40k-icon/master/src/svgs/human_imperium/adeptus-astartes.svg",
     "description": "There is no combat theatre in which the Space Marines cannot excel, no foe they cannot overcome, and no danger they fear to face. They are the elite shock troops of the Imperium, whose lightning-fast campaigns are conducted with such spectacular brutality that they have come to be known as the Angels of Death.",
     "community": 98,
-    "model_variety": 39
+    "model_variety": 32
   },
   {
     "id": "TAU",
@@ -375,7 +375,7 @@
     "icon": "https://raw.githubusercontent.com/certseeds/wh40k-icon/master/src/svgs/xenos/tau_empire/tau-sept.svg",
     "description": "Dynamic and supremely confident, the T'au have established a powerful empire of countless species working toward the philosophy of the Greater Good. This once-small civilisation spreads like wildfire across the stars, its diplomatic efforts backed by armies of advanced battlesuits and alien auxiliaries.",
     "community": 76,
-    "model_variety": 66
+    "model_variety": 47
   },
   {
     "id": "TS",
@@ -393,7 +393,7 @@
     "icon": "https://raw.githubusercontent.com/certseeds/wh40k-icon/master/src/svgs/chaos/legions/thousand-sons.svg",
     "description": "The Thousand Sons are a Traitor Legion of mad sorcerers sworn to the service of Tzeentch, the Chaos God of magic and change. These eldritch Space Marines rule over retinues of twisted mutants and arcane automata, launching labyrinthine plots to bring about the Imperium's destruction.",
     "community": 58,
-    "model_variety": 44
+    "model_variety": 40
   },
   {
     "id": "TYR",
@@ -411,7 +411,7 @@
     "icon": "https://raw.githubusercontent.com/certseeds/wh40k-icon/master/src/svgs/xenos/tyranids.svg",
     "description": "The Tyranids have invaded the galaxy from beyond the intergalactic void, their hive fleets slithering like tendrils into every sector and system. Driven by the imperatives of the almighty Hive Mind, their swarms sweep over world after world in a living tide of biological killing-machines, devouring every last shred of biomass in their path.",
     "community": 86,
-    "model_variety": 91
+    "model_variety": 44
   },
   {
     "id": "UN",

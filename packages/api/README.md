@@ -78,7 +78,7 @@ Returns all factions with datasheet counts.
     "ease_of_painting": 85,
     "games_workshop_support": 95,
     "community": 98,
-    "model_variety": 39,
+    "model_variety": 32,
     "creators_aesthetic_preference": 30,
     "color": "#3B82F6",
     "icon": "https://raw.githubusercontent.com/certseeds/wh40k-icon/master/src/svgs/human_imperium/adeptus-astartes.svg",
@@ -98,7 +98,7 @@ Returns all factions with datasheet counts.
 | `ease_of_painting` | How easy the models are to paint (0–100, 100 = very easy) |
 | `games_workshop_support` | How well Games Workshop supports the faction with new releases, balance, and marketing (0–100) |
 | `community` | How large and active the faction's dedicated fan community is — based primarily on dedicated subreddit size/activity, plus other community signals (0–100, 100 = largest, most active community) |
-| `model_variety` | How visually and creatively varied the faction's models are from one another, i.e. how different they look and paint across the army (0–100, 100 = every unit is distinct and fresh to paint, 0 = the same body/panels/scheme repeated, very repetitive). Independent of painting difficulty. |
+| `model_variety` | How varied the *painting experience* is across the army — how much the colours, palette, and techniques genuinely change from unit to unit (0–100). High = you constantly switch palettes/techniques so it stays fresh (e.g. Chaos Daemons' four god ranges); low = the same colour recipe repeated on every model, even if the sculpts differ (e.g. a Tyranid hive fleet, or uniform power armour). Driven by palette/technique diversity, **not** sculpt variety, and independent of painting difficulty. |
 | `creators_aesthetic_preference` | How much the API creator personally likes the army's aesthetic (0–100) |
 | `color` | Hex color representing the faction (e.g. `#3B82F6`), suitable for display on dark backgrounds |
 | `icon` | URL to an SVG icon/logo for the faction |
@@ -125,7 +125,7 @@ Returns a faction manifest including its full datasheet index.
   "ease_of_painting": 63,
   "games_workshop_support": 75,
   "community": 83,
-  "model_variety": 84,
+  "model_variety": 45,
   "creators_aesthetic_preference": 70,
     "color": "#22C55E",
     "icon": "https://raw.githubusercontent.com/certseeds/wh40k-icon/master/src/svgs/xenos/orks/orks.svg",
